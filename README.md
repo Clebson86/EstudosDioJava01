@@ -4,7 +4,7 @@
 
 #### **Na parte inicial do curso, foram apresentados fundamentos de lógica de programação, algoritmos, variáveis, estruturas repetição, etc...**
 
-#### **Aqui, temos um pequeno projeto que reúne um pouco do conteúdo dos assuntos passados no curso(tanto de _Java_, quanto de _Git/GitHub_).  O código foi criado tendo como base alguns dos exemplos e exercícios propostos durante as aulas. **
+#### **Aqui, temos um pequeno projeto que reúne um pouco do conteúdo dos assuntos passados no curso(tanto de _Java_, quanto de _Git/GitHub_).  O código foi criado tendo como base alguns dos exemplos e exercícios propostos durante as aulas.**
 
 #### **Foram utilizados os seguintes tópicos:**
 
