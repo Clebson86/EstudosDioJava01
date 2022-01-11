@@ -8,7 +8,7 @@
 
 #### **Foram utilizados os seguintes tópicos:**
 
-* _Estruturas de Repetição e Seleção_
+* _Estruturas de Repetição e Seleção(Controle de fluxo)_
 
 * _Variáveis_
 
